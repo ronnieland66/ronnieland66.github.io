@@ -35,8 +35,7 @@ h1, h2, p {
 img {transform: rotate(45 deg);
 }
 img {
-  max-width: 100%
-  min-width: 100%
+  max-width: 650px;
   display: block;
   margin-left: auto;
   margin-right: auto;
