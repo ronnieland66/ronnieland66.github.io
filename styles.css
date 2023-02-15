@@ -48,6 +48,7 @@ h1, h2, p {
 img {transform: rotate(45 deg);
 }
 img {
+  postion: center;
   object-fit: scale down;
   max-width: 650px;
   display: block;
