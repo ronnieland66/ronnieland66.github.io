@@ -8,7 +8,7 @@ const resizeOps = () => {
   };
   resizeOps();
   window.addEventListener("resize", resizeOps);
-html, body {
+html, body, img {
   height: 100vh;
   height: calc(var(--vh, 1vh) * 100);
 }
